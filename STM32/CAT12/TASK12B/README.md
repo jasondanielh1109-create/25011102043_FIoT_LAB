@@ -4,8 +4,7 @@
 
 **TASK:** TASK12B
 
-**STUDENT REGISTER NO:** <YOUR_REGISTER_NO>
-
+**STUDENT REGISTER NO:** 2501110243
 **COURSE:** Foundations of IoT (FIoT)
 
 **NAME OF EXP:** CAT 12 Task 12B: BME280 Temperature Compensation Readout
